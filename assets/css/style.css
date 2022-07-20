@@ -1,0 +1,131 @@
+/* Patricio Casas Klein */
+
+body {
+	margin: 0;
+	border: 0;
+	font-family: 'Raleway', sans-serif;
+	background-color: #000000;
+	color: #ffffff;
+}
+
+h1 {
+	color: #ffffff;
+}
+
+h2 {
+	color: #ffffff;
+}
+
+p {
+	color: #ffffff;
+}
+
+
+/* HEADER */
+
+.header {
+	font-size: 50px;
+	font-weight: 500;
+	color: #ffffff;
+	margin: 0;
+	padding:  0;
+	text-align: center;
+}
+
+.hero-img img {
+	width: 100%;
+}
+
+/* SECCION DESCRIPCIÓN */
+
+.des.seccion1 {
+	background-color: #000000;
+	margin: 0;
+	padding: 45px 0;
+}
+
+.container {
+	width: 80%;
+	margin: 0 auto;
+}
+
+.text {
+	width: 60%;
+	display: inline-block;
+	padding-right: 20px;
+	text-align: justify;
+	vertical-align: middle;
+	font-weight: 300;
+}
+
+.imagen {
+	display: inline-block;
+	width: 30%;	
+	vertical-align: middle;
+}
+
+.imagen img {
+	width: 100%;
+}
+
+/* SECCION ICONOS */
+
+.iconos {
+	background-color: #1E1A13;
+	text-align: center;
+	padding: 50px;
+	padding: 1;
+}
+
+.iconos1 h2 {
+	font-weight: 500;
+	font-size: 40px;
+	margin-bottom: 1em;
+}
+
+.iconos1 {
+	display: inline-block;
+	width: 30%;
+}
+
+.iconos1 p {
+	font-size: 25px;
+	font-weight: 300;
+}
+
+/* SECCION IMAGENES */
+
+.seccion_img {
+	
+	text-align: center;
+	padding: 75px 0;
+}
+
+.imagen_galeria {
+	display: inline-block;
+	width: 30%;
+	vertical-align: middle;
+}
+
+
+.imagen_galeria img {
+	width: 96%;
+	height: 400px;
+	object-fit: cover;
+}
+
+
+/* FOOTER */
+
+footer {
+	background-color: #1E1A13;
+	text-align: center;
+	margin: 0;
+	padding: 10px;
+	color: #ffffff;
+}
+
+footer a {
+	text-decoration: none;
+	color: white;
+}
